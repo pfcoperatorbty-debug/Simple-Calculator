@@ -1,0 +1,1 @@
+{\n  "name": "Simple Calculator",\n  "short_name": "Calculator",\n  "description": "A simple calculator with mathematical symbols",\n  "start_url": "/Simple-Calculator/",\n  "scope": "/Simple-Calculator/",\n  "display": "standalone",\n  "orientation": "portrait-primary",\n  "background_color": "white",\n  "theme_color": "#667eea"\n}
